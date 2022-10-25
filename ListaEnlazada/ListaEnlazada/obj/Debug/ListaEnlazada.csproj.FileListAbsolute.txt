@@ -1,0 +1,11 @@
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe.config
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.exe
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\bin\Debug\ListaEnlazada.pdb
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.Form1.resources
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.Properties.Resources.resources
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.GenerateResource.cache
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.exe
+C:\Users\Sergio Lizarraga\Documents\Estructuras\ListaEnlazada\ListaEnlazada\obj\Debug\ListaEnlazada.pdb
